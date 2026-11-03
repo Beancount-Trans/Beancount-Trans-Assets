@@ -23,7 +23,7 @@ more-itertools==11.1.0
 ply==3.11
 python-dateutil==2.9.0.post0
 python-magic==0.4.27
-pytz==2026.5
+pytz==2026.6
 regex==2026.9.29
 simplejson==3.20.2
 six==1.17.0
